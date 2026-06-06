@@ -4,11 +4,11 @@
 ---
 
 ## 🛠 About Me
-আমি সাইবার সিকিউরিটি, ডিজিটাল লিটারেসি এবং ওপেন-সোর্স কন্ট্রিবিউশন নিয়ে কাজ করতে পছন্দ করি। এর পাশাপাশি ডিজিটাল ক্রিয়েটর হিসেবে বিভিন্ন থ্রিডি আর্ট ও সোশ্যাল অ্যাওয়ারনেস কন্টেন্ট তৈরিতে আমার দারুণ আগ্রহ রয়েছে। 
+I am a Cyber Security Expert and Digital Creator with a strong passion for web security, digital literacy, and open-source contributions. Alongside my technical background, I enjoy creating 3D art, realistic models, and impactful social awareness content.
 
-- 🎓 IIT Bombay-এর প্রাক্তন শিক্ষার্থী।
-- 🌐 আমার সোশ্যাল মিয়া প্রজেক্ট: **@unspokenbangla** (ডিজিটাল সিটিজেনশিপ ও সোশ্যাল অ্যাওয়ারনেস)।
-- 💼 টেকনিক্যাল স্কিল: সাইবার সিকিউরিটি, পাইথন অটোমেশন, ব্লেন্ডার থ্রিডি, এবং ওয়ার্ডপ্রেস ডেভেলপমেন্ট।
+- 🎓 Alumnus of **Indian Institute of Technology (IIT) Bombay**.
+- 🌐 Creator of **@unspokenbangla** – an initiative focused on digital citizenship and social awareness.
+- 💼 Core Skills: Web Security, Python Automation, Blender 3D, and WordPress Development.
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 ## 📬 Connect with Me
-আপনার যেকোনো আইডিয়া বা প্রজেক্টের জন্য আমার সাথে যোগাযোগ করতে পারেন:
+Feel free to reach out for collaborations, security insights, or creative projects:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iambsouvik)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iambsouvik)
